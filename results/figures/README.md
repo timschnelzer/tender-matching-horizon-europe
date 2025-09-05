@@ -1,1 +1,1 @@
-# "This folder stores plots generated during EDA"
+# This folder stores plots generated during EDA
