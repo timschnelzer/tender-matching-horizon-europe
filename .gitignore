@@ -209,6 +209,9 @@ __marimo__/
 # Large data (raw dumps, not for Git)
 data/raw/*
 data/external/*
+data/processed/*.npy
+data/processed/*.index
+data/processed/*.csv
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
